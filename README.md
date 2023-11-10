@@ -9,3 +9,5 @@ Elaborar una implementación haciendo uso del lenguaje de programación Haskell 
 
 Nota: Un número primo es un valor numérico natural mayor que 1 que solamente es divisible entre 1 y el número mismo; es decir, solamente tiene dos divisores positivos diferentes que son: el número 1 y el mismo valor.
 
+## Ejecución y el ejemplo del resultado
+![image](https://github.com/MinhyukHong/Parcial-3/assets/108979014/844058fe-7931-4357-acbc-1c45c5d35fda)
